@@ -1,5 +1,9 @@
 # 'About' page for Sailfish apps
 
+**Notice: this repository is obsolete. Please use [Opal.About](https://github.com/Pretty-SFOS/opal-about) for new projects.**
+
+---
+
 This repo provides files to include a simple 'About' page with license and
 contributors information in your Sailfish app.
 
