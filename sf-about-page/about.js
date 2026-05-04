@@ -34,7 +34,7 @@ var APPINFO = {
     description: "",      // a rich text description of your app
     author: "",           // the main author(s) or maintainer(s)
     sourcesLink: "",      // where users can get your app's source code
-    sourcesText: "",      // custom button text, e.g. qsTr("Sources on GitHub")
+    sourcesText: "",      // custom button text, e.g. qsTr("Sources on %1").arg("Codeberg")
 
     extraInfoTitle: "",   // section to show extra info
                           // e.g. use qsTr("Data"), if your app uses data from an external provider

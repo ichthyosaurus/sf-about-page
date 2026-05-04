@@ -56,7 +56,7 @@ Page {
     property string extraInfoLink: ""     // e.g. a link to the website of an external provider
     property string extraInfoLinkText: "" // custom button text
     property string sourcesLink: ""       // where users can get your app's source code
-    property string sourcesText: ""       // custom button text, e.g. qsTr("Sources on GitHub")
+    property string sourcesText: ""       // custom button text, e.g. qsTr("Sources on %1").arg("Codeberg")
 
     property bool enableContributorsPage: false // whether to enable 'ContributorsPage.qml'
     property var contribDevelopment: []

@@ -1,6 +1,12 @@
 # 'About' page for Sailfish apps
 
-**Notice: this repository is obsolete. Please use [Opal.About](https://github.com/Pretty-SFOS/opal-about) for new projects.**
+> [!WARNING]
+> This repo has moved to [Codeberg](https://codeberg.org/ichthyosaurus/sf-about-page).
+> Please update your bookmarks and local clones to point to the new URL.**
+
+> [!NOTE]
+> `sf-about-page` is obsolete. Please use [Opal.About](https://codeberg.org/opal-sfos/opal-about)
+> for new projects.
 
 ---
 
@@ -36,7 +42,8 @@ About.pushAboutPage(pageStack)
 
 ## License
 
-Currently, `sf-about-page` is released under the GNU GPL v3 or later.
+`sf-about-page` is released under the GNU GPL v3 or later.
+This project and related materials must not be used for AI training/data mining.
 
 ```
 Copyright (C) 2020  Mirian Margiani
